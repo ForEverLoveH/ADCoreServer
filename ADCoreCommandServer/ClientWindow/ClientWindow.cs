@@ -106,6 +106,8 @@ namespace ADCommandServer.ClientWindow
                 this.changeStuta(true);
                 ConnectBtn.Enabled = true;
                 IsConnection=false;
+                SendmsgBox.Clear();
+                ReceMsgBox.Clear();
             }
             catch (Exception ex)
             {

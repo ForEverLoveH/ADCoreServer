@@ -1,0 +1,12 @@
+D:\WorkProject\ADComand\ADCoreCommandCom\bin\Debug\ADCoreCommandCom.dll
+D:\WorkProject\ADComand\ADCoreCommandCom\bin\Debug\ADCoreCommandCom.pdb
+D:\WorkProject\ADComand\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.csproj.AssemblyReference.cache
+D:\WorkProject\ADComand\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.csproj.CoreCompileInputs.cache
+D:\WorkProject\ADComand\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.dll
+D:\WorkProject\ADComand\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.pdb
+D:\WorkProject\ADComand\ADCoreServer\ADCoreCommandCom\bin\Debug\ADCoreCommandCom.dll
+D:\WorkProject\ADComand\ADCoreServer\ADCoreCommandCom\bin\Debug\ADCoreCommandCom.pdb
+D:\WorkProject\ADComand\ADCoreServer\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.csproj.AssemblyReference.cache
+D:\WorkProject\ADComand\ADCoreServer\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.csproj.CoreCompileInputs.cache
+D:\WorkProject\ADComand\ADCoreServer\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.dll
+D:\WorkProject\ADComand\ADCoreServer\ADCoreCommandCom\obj\Debug\ADCoreCommandCom.pdb
